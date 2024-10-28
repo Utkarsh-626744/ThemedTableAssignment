@@ -22,7 +22,7 @@ A real-time cryptocurrency dashboard built with Next.js, Material-UI, and the Co
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/next-mui-data-table.git
+git clone https://github.com/Utkarsh-626744/ThemedTableAssignment.git
 cd next-mui-data-table
 ```
 
